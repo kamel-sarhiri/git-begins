@@ -9,3 +9,5 @@ les commande push (dans l'ordre) :
  
  Créer une branche de travail et switch dessus : git checkout -b [nom de la branche]
 Passer sur la branche Main : git checkout main
+
+Pour pull = git pull
