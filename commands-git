@@ -11,3 +11,7 @@ les commande push (dans l'ordre) :
 Passer sur la branche Main : git checkout main
 
 Pour pull = git pull
+
+git branch <branche> : permet de créer une nouvelle branche au repo en cours.
+
+git checkout : permet de changer de branche
