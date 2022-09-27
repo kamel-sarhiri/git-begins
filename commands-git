@@ -1,3 +1,5 @@
+Bonjour,
+
 cloner un repo = git clone [url repo] / git init [nom repo] 
 
 les commande push (dans l'ordre) :
@@ -14,4 +16,6 @@ Pour pull = git pull
 
 git branch <branche> : permet de créer une nouvelle branche au repo en cours.
 
-git checkout : permet de changer de branche
+git checkout : permet de changer de branche 
+
+
